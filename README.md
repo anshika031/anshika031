@@ -26,7 +26,7 @@ Java | Spring Boot | Hibernate | Spring Data JPA | Kafka | MySQL | PostgreSQL | 
 📚 Exploring : 
 System Design | Cloud Native Architecture | API Gateway | Event-Driven Architecture | CI/CD Pipelines
 
-🤝 Looking to:
+🤝 Looking to : 
 Contribute actively to open-source projects and developer communities to grow, share knowledge, and build impactful software together.
 
 🚀 Motto : 
